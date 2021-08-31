@@ -1,1 +1,3 @@
-This is a new test file
+This is a new test file for download.
+
+And this is another commit from local.
